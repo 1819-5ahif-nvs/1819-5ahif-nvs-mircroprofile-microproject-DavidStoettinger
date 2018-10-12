@@ -1,0 +1,12 @@
+DOCKER under win10-home 101
+--------------------------------------------------------------------------------------
+ERROR: connection via localhost not possible
+eg. http://localhost:8080/resources/sample
+
+quickstart-terminal:
+>docker build .
+>./buildandrun.bat
+>docker-machine ip default
+
+SOLUTION: the ip replaces localhost
+eg. http://192.168.99.100:8080/resources/sample
