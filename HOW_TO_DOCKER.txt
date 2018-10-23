@@ -10,3 +10,8 @@ quickstart-terminal:
 
 SOLUTION: the ip replaces localhost
 eg. http://192.168.99.100:8080/resources/sample
+
+
+
+DOCKER DB
+https://www.melvinvivas.com/using-docker-data-volume-with-a-mysql-container/
